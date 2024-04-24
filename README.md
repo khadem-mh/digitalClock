@@ -4,7 +4,7 @@
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
 ## Descripton Mini-Project
-- A beautiful digital clock that some websites usually use for admin panels, albeit in a much smaller dimension
+- A beautiful digital clock that some websites usually use for admin panels, albeit in a much smaller dimension 
   
 - The clock is dynamic. 
 

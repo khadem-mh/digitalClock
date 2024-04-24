@@ -6,7 +6,7 @@
 ## Descripton Mini-Project
 - A beautiful digital clock that some websites usually use for admin panels, albeit in a much smaller dimension
   
-- The clock is dynamic.
+- The clock is dynamic. 
 
 >### Languages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=55&height=25&lines=Html5)
